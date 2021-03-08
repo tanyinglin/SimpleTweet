@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I spent a while to debug the process of fetching data from API and OAuth login.
 
 ## Open-source libraries used
 
